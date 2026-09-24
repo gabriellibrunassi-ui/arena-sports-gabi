@@ -31,7 +31,27 @@ header {
     color: rgb(4, 4, 54);
     padding: 32px 16px;
     text-align: center;
+     #inicio { background-image: url("fundoarena.png"); }
+    background-size: cover;
+    background-position:center;
+    background-repeat:no-repeat;
+        }
+
+        header {
+    background-image: url("fundoarena.png");
+    background-size: cover;
+    background-position: center;
 }
+
+.inicio {
+    background-image: url("imagem/arena.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+
 
 .card {
     
