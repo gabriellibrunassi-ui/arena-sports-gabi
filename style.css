@@ -8,13 +8,13 @@
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(21, 49, 82);
-    background-color: #f4f7ff;
+    color: rgb(22, 41, 63);
+    background-color: #e2eaff;
     line-height: 1.6;
 }
 
 nav a {
-    color: rgb(8, 10, 43);
+    color: rgb(7, 9, 51);
     text-decoration: none;
     font-weight: 550;
     font-size: 15px;
@@ -27,18 +27,64 @@ h1 {
 }
 
 header {
-    background-color: #2a408a;
-    color: rgb(232, 232, 255);
+    background-color: #9eacdc;
+    color: rgb(4, 4, 54);
     padding: 32px 16px;
     text-align: center;
 }
 
+.card {
+    
+    padding: 30px;
+    margin: 40px auto;
+    max-width: 800;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#foto-arena-sports {
+    background-image: url(arena\ sports.png);
+}
 
 .foto {
-    background-color: rgb(255, 222, 239);
+    background-color: rgb(27, 25, 54);
     background-size: cover;
     background-position: center;
     height: 160px;
     border-radius: 4px;
     margin-bottom: 12px;
+}
+
+h3 {
+    background-color: rgb(206, 216, 255);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+head {
+     background-color: rgb(234, 239, 255);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+
+}
+
+
+
+
+
+#foto-arenasports {
+    background-image: url(arena\ sports.png);
+    padding: 50px;
+    height: 300px;
+}
+
+
+
+footer {
+    background-color: rgb(169, 185, 234);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
 }
