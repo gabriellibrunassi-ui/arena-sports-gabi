@@ -13,6 +13,8 @@ body {
     line-height: 1.6;
 }
 
+   /*MENU*/
+
 nav a {
     color: rgb(232, 234, 255);
     text-decoration: none;
@@ -51,7 +53,7 @@ header {
     min-height: 100vh;
 }
 
-
+/*Seletor classe e ID*/
 
 .card {
     
@@ -96,7 +98,7 @@ head {
     height: 300px;
 }
 
-
+    /* RODAPÉ */
 
 footer {
     background-color: rgb(169, 185, 234);
