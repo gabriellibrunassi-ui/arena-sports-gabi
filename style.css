@@ -75,7 +75,7 @@ header {
     margin-bottom: 12px;
 }
 
-h3 {
+h3, h2 {
     background-color: rgb(206, 216, 255);
     padding: 20px;
     margin-bottom: 20px;
@@ -89,10 +89,6 @@ head {
     border-radius: 8px;
 
 }
-
-
-
-
 
 #foto-arenasports {
     background-image: url(arena\ sports.png);
